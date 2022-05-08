@@ -1,0 +1,9 @@
+
+Bias(치우침)
+- horizental bias = 값
+- vertical bias = 값
+
+-값
+    -비율로 설정을 해준다.
+    -1 인 경우 100% 치우침
+    -0인 경우 변화없음
