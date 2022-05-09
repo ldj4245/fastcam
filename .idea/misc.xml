@@ -5,11 +5,18 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/constraintlayout.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/constraintlayout2.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/constraintlayout3.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/constraintlayout4.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/constraintlayout5.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/framelayout.xml" value="0.28229166666666666" />
         <entry key="app/src/main/res/layout/linearlayout.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/margin_padding.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/relativelayout.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/relativelayout2.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/relativelayout3.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/report.xml" value="0.23897707231040563" />
+        <entry key="app/src/main/res/layout/report2.xml" value="0.28229166666666666" />
       </map>
     </option>
   </component>

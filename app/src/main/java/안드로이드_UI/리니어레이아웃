@@ -10,5 +10,11 @@
     - weight : 자식이 차지할 크기의 비율을 설정
 
 
+3> Bias(치우침)
+
+-layout horizontal bias
+-layout vertical bias
+
+
 
 

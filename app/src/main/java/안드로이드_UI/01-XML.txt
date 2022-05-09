@@ -7,5 +7,3 @@ Domain Specific Language
 - 도메인 특화 언어 -> 특수한 목적을 달성하기 위한 언어
 - 간단한 문법
 
-
-dp sp

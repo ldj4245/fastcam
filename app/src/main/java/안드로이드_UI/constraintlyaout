@@ -5,5 +5,22 @@ Bias(치우침)
 
 -값
     -비율로 설정을 해준다.
-    -1 인 경우 100% 치우침
-    -0인 경우 변화없음
+    -1 인 경우 100% 왼쪽 치우침
+
+
+
+ 원형 위치 설정 (Circular positioning)
+
+ - layout_constraintCircle : 기준을 정한다
+ - layout_constraintCircleRadius : 두 중심 간의 거리
+ - layout_constaintCircleAngle : 각도
+
+
+chain 속성
+
+- spread chain
+- spread inside
+- packed
+
+
+

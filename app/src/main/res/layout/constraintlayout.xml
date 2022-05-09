@@ -5,6 +5,7 @@
     android:layout_height="match_parent">
 
 
+
     <View
         android:id="@+id/view1"
         android:layout_width="100dp"
@@ -12,19 +13,34 @@
         android:background="@color/teal_200"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-
+        app:layout_constraintEnd_toStartOf="@id/view2"
         />
+
 
     <View
+        app:layout_constraintStart_toEndOf="@id/view1"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/view2"
+        app:layout_constraintEnd_toStartOf="@id/view3"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginStart="10dp"
         android:background="@color/teal_200"
-        app:layout_constraintStart_toEndOf="@id/view1"
-        app:layout_constraintTop_toTopOf="@id/view1"
-
-
         />
+
+
+    <View
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/view2"
+        android:id="@+id/view3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/teal_200"
+        />
+
+
+
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
